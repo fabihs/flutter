@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+=======
+ini adalah teks utama
+
+ini adalah teks login
+
+ini adalah teks login baru
+
+test cabang 1
+
+ini adalah teks landing
+>>>>>>> 4fb8bc305ca42ed369f73354811f283811da890c
