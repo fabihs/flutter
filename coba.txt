@@ -11,4 +11,7 @@ test cabang 1
 ini adalah teks landing
 
 ini adalah teks home
+
+ini adalah teks list
+
 >>>>>>> 4fb8bc305ca42ed369f73354811f283811da890c
