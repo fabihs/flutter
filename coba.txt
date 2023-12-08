@@ -9,4 +9,6 @@ ini adalah teks login baru
 test cabang 1
 
 ini adalah teks landing
+
+ini adalah teks home
 >>>>>>> 4fb8bc305ca42ed369f73354811f283811da890c
