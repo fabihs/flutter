@@ -8,6 +8,7 @@ ini adalah teks login baru
 
 test cabang 1
 
+ini adalah teks hal dua
 ini adalah teks landing
 
 ini adalah teks home
@@ -15,4 +16,4 @@ ini adalah teks home
 ini adalah teks list
 
 ini adalah teks hal satu
->>>>>>> 4fb8bc305ca42ed369f73354811f283811da890c ini adalah teks hal dua
+>>>>>>> 4fb8bc305ca42ed369f73354811f283811da890c
